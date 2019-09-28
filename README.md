@@ -1,6 +1,6 @@
 # About me
 
-Mijn naam is **Merlijn** en ik ben *15* jaar oud.
+Mijn naam is **Merlijn** en ik ben ~~16~~ *15* jaar oud.
 
 Ik speel vaak games en codeer af en toe.
 
