@@ -1,6 +1,6 @@
 # About me
 
-Mijn naam is **Merlijn** en ik ben ~~16~~ *15* jaar oud.
+Mijn naam is **Merlijn** en ik ben ~~16~~ *15* jaar oud. Ik zit in klas MG1D.
 
 Ik speel vaak games en codeer af en toe.
 
